@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.ワールドで遊ぶユーザー向け": {
+    "message": "ワールドで遊ぶユーザー向け",
+    "description": "The label for category ワールドで遊ぶユーザー向け in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ワールドクリエイター向け": {
+    "message": "ワールドクリエイター向け",
+    "description": "The label for category ワールドクリエイター向け in sidebar tutorialSidebar"
+  }
+}
