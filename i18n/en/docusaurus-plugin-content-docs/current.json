@@ -4,11 +4,11 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.ワールドで遊ぶユーザー向け": {
-    "message": "ワールドで遊ぶユーザー向け",
+    "message": "For World Users",
     "description": "The label for category ワールドで遊ぶユーザー向け in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.ワールドクリエイター向け": {
-    "message": "ワールドクリエイター向け",
+    "message": "For World Creators",
     "description": "The label for category ワールドクリエイター向け in sidebar tutorialSidebar"
   }
 }
